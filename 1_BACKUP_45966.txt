@@ -1,6 +1,0 @@
-this is my first commit
-<<<<<<< HEAD
-this is feature2
-=======
-this is my feature1
->>>>>>> f2
